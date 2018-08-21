@@ -18,7 +18,7 @@ public class DateAndTime_04_Test {
     public void test_localDateTime_of() {
 
         // TODO créer un objet LocalDateTime à la date heure 12h00m00s 01/01/2018
-        LocalDateTime result = null;
+        LocalDateTime result = LocalDateTime.parse("12:00:00").DateTimeFormatter.ofPattern("HH 'h')
 
         // TODO valoriser les différentes variables afin de rendre le test passant
         int hour = 0;
