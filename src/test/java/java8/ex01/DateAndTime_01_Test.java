@@ -43,6 +43,4 @@ public class DateAndTime_01_Test {
 
         assertThat(calendar.getTime().toString(), is("Sat Mar 25 01:02:03 CET 2017"));
     }
-
-
 }

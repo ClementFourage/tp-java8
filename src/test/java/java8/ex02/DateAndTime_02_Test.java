@@ -96,5 +96,4 @@ public class DateAndTime_02_Test {
         assertThat(result.getMonth(), is(Month.FEBRUARY));
         assertThat(result.getDayOfMonth(), is(5));
     }
-
 }

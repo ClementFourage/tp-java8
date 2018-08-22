@@ -35,5 +35,4 @@ public class DateAndTime_05_Test {
     }
 
     // Duration
-
 }
